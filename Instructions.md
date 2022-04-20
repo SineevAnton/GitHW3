@@ -53,6 +53,10 @@ ___
 |rm|Remove files from the working tree and from the index|
 |sparse-checkout|Initialize and modify the sparse-checkout|
 
+Hints for some commands.
+
+**git checkout -b|-B <new_branch>** - *Specifying -b causes a new branch to be created as if git-branch(1) were called and then checked out.*
+
 [Back to the table o contents.](#ToC)
 ___
 
