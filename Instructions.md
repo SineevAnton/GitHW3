@@ -21,6 +21,7 @@ ___
 3. [Chapter 3. Examine the history and state](#Chapter3)
 4. [Chapter 4. Grow, mark and tweak your common history.](#Chapter4)
 5. [Chapter 5. Collaborate](#Chapter5)
+6. [Chapter 6. MD commands](#Chapter6)
 
 
 ___
@@ -85,6 +86,19 @@ ___
 ___
 <a id = "Chapter5"></a>
 ## *Chapter 5. Collaborate*
+___
+
+| Command              | Description             |
+| :------------------- | ----------------------: |
+|fetch|Download objects and refs from another repository|
+|pull|Fetch from and integrate with another repository or a local branch|
+|push|Update remote refs along with associated objects|
+
+[Back to the table o contents.](#ToC)
+___
+
+<a id = "Chapter6"></a>
+## *Chapter 6. MD commands*
 ___
 
 | Command              | Description             |
