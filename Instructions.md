@@ -29,6 +29,8 @@ ___
 ## *Chapter 1. Start a working area*
 ___
 
+*<p align="right">**Table 1.** Basic commands.</p>*
+
 | Command              | Description             |
 | :------------------- | ----------------------: |
 |clone| Clone a repository into a new directory|
@@ -40,6 +42,8 @@ ___
 <a id = "Chapter2"></a>
 ## *Chapter 2. Work on the current change*
 ___
+
+*<p align="right">**Table 2.** Basic commands.</p>*
 
 | Command              | Description             |
 | :------------------- | ----------------------: |
@@ -55,6 +59,8 @@ ___
 <a id = "Chapter3"></a>
 ## *Chapter 3. Examine the history and state*
 ___
+
+*<p align="right">**Table 3.** Basic commands.</p>*
 
 | Command              | Description             |
 | :------------------- | ----------------------: |
@@ -72,6 +78,8 @@ ___
 ## *Chapter 4. Grow, mark and tweak your common history*
 ___
 
+*<p align="right">**Table 4.** Basic commands.</p>*
+
 | Command              | Description             |
 | :------------------- | ----------------------: |
 |branch|List, create, or delete branches|
@@ -88,6 +96,8 @@ ___
 ## *Chapter 5. Collaborate*
 ___
 
+*<p align="right">**Table 5.** Basic commands.</p>*
+
 | Command              | Description             |
 | :------------------- | ----------------------: |
 |fetch|Download objects and refs from another repository|
@@ -100,6 +110,8 @@ ___
 <a id = "Chapter6"></a>
 ## *Chapter 6. MD commands*
 ___
+
+*<p align="right">**Table 6.** Basic commands.</p>*
 
 | Command              | Description             |
 | :------------------- | ----------------------: |
