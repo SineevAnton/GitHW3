@@ -75,6 +75,14 @@ ___
 |show|Show various types of objects|
 |status|Show the working tree status|
 
+Hints for some commands.
+
+**git status -s, --short** - *Give the output in the short-format.*
+
+**git status -v, --verbose** - *In addition to the names of files that have been changed, also show the textual changes that are staged to be committed (i.e.,
+           like the output of git diff --cached). If -v is specified twice, then also show the changes in the working tree that have not yet
+           been staged (i.e., like the output of git diff).*
+
 [Back to the table o contents.](#ToC)
 ___
 
