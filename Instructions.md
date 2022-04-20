@@ -103,9 +103,9 @@ ___
 
 | Command              | Description             |
 | :------------------- | ----------------------: |
-|fetch|Download objects and refs from another repository|
-|pull|Fetch from and integrate with another repository or a local branch|
-|push|Update remote refs along with associated objects|
+|#|Heading|
+|\*\*\<text\>\*\*|Applies bold style to \<text\>.|
+|\*\<text\>\*|Applies italic style to \<text\>.|
 
 [Back to the table o contents.](#ToC)
 ___
