@@ -103,11 +103,9 @@ ___
 
 | Command              | Description             |
 | :------------------- | ----------------------: |
-|fetch|Download objects and refs from another repository|
-|pull|Fetch from and integrate with another repository or a local branch|
-|push|Update remote refs along with associated objects|
-
-[Back to the table o contents.](#ToC)
+|fetch|Download objects and refs from another reposit
+I'm a big terrible ERROR >_<
+╚╪р▐┌╨я э█╒┌тр╪ф╪┌╨ц╪я ю╓▌ых ╙у╤╒р▌╪┘ ╘╨ст ▄▐щ▌ы┘ т▐█ч▐┌ ▀▐╘ъё▄у с╒█ьс┌ table o contents.](#ToC)
 ___
 
 *<p align="right">Made by Sineev Anton</p>*
