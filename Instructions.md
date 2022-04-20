@@ -29,6 +29,8 @@ ___
 ## *Chapter 1. Start a working area*
 ___
 
+*<p align="right">**Table 1.** Basic commands.</p>*
+
 | Command              | Description             |
 | :------------------- | ----------------------: |
 |clone| Clone a repository into a new directory|
@@ -41,6 +43,8 @@ ___
 ## *Chapter 2. Work on the current change*
 ___
 
+*<p align="right">**Table 2.** Basic commands.</p>*
+
 | Command              | Description             |
 | :------------------- | ----------------------: |
 |add|Add file contents to the index|
@@ -49,12 +53,18 @@ ___
 |rm|Remove files from the working tree and from the index|
 |sparse-checkout|Initialize and modify the sparse-checkout|
 
+Hints for some commands.
+
+**git checkout -b|-B <new_branch>** - *Specifying -b causes a new branch to be created as if git-branch(1) were called and then checked out.*
+
 [Back to the table o contents.](#ToC)
 ___
 
 <a id = "Chapter3"></a>
 ## *Chapter 3. Examine the history and state*
 ___
+
+*<p align="right">**Table 3.** Basic commands.</p>*
 
 | Command              | Description             |
 | :------------------- | ----------------------: |
@@ -72,6 +82,8 @@ ___
 ## *Chapter 4. Grow, mark and tweak your common history*
 ___
 
+*<p align="right">**Table 4.** Basic commands.</p>*
+
 | Command              | Description             |
 | :------------------- | ----------------------: |
 |branch|List, create, or delete branches|
@@ -82,11 +94,19 @@ ___
 |switch|Switch branches|
 |tag|Create, list, delete or verify a tag object signed with GPG|
 
+Hints for some commands.
+
+**git branch -m <new_name>** - *Rename the current branch*
+
+**git branch -d <branch_name>** - *Delete the branch with <branch_name>. You shouldn't be in this branch to delete it.*
+
 [Back to the table o contents.](#ToC)
 ___
 <a id = "Chapter5"></a>
 ## *Chapter 5. Collaborate*
 ___
+
+*<p align="right">**Table 5.** Basic commands.</p>*
 
 | Command              | Description             |
 | :------------------- | ----------------------: |
@@ -100,6 +120,8 @@ ___
 <a id = "Chapter6"></a>
 ## *Chapter 6. MD commands*
 ___
+
+*<p align="right">**Table 6.** Basic commands.</p>*
 
 | Command              | Description             |
 | :------------------- | ----------------------: |
