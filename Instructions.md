@@ -107,6 +107,12 @@ ___
 |\*\*\<text\>\*\*|Applies bold style to \<text\>.|
 |\*\<text\>\*|Applies italic style to \<text\>.|
 
+Hints.
+
+You can use symbol '\' to escape command symbols, for example:
+- **text** - here we used \*\*text\*\* without '\\'
+- \*\*text\*\* - here I placed '\\' before every '\*' symbol, like that '\\* \\* text \\* \\*'.
+
 [Back to the table o contents.](#ToC)
 ___
 
