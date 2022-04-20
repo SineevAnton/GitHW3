@@ -94,6 +94,12 @@ ___
 |switch|Switch branches|
 |tag|Create, list, delete or verify a tag object signed with GPG|
 
+Hints for some commands.
+
+**git branch -m <new_name>** - *Rename the current branch*
+
+**git branch -d <branch_name>** - *Delete the branch with <branch_name>. You shouldn't be in this branch to delete it.*
+
 [Back to the table o contents.](#ToC)
 ___
 <a id = "Chapter5"></a>
